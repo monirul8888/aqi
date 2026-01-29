@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+*.swp
+
+# TensorFlow / Keras
+*.h5
+*.keras
+
+# System
+.DS_Store
+.idea/
+.vscode/
